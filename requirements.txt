@@ -1,0 +1,15 @@
+# Use the git version for pyCraft to avoid installation issues
+git+https://github.com/ammaraskar/pyCraft
+# Other dependencies
+rich
+requests
+configparser
+PySocks
+quarry
+mcproto
+asyncio_dgram
+semantic_version
+mutf8
+PyNBT
+bitstring
+bitarray
