@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MC-Check
 
 MC-Check is a high-performance tool for checking Minecraft accounts, developed for educational and research purposes. It allows you to analyze large lists of credentials for validity using multithreading and proxy support.
@@ -40,4 +39,4 @@ The author **bears no responsibility** for any possible misuse of this software.
 =======
 # MC-Checker
 Check your minecraft combo files
->>>>>>> 7451bc6fb1f2af745e5a391737d1497e85bfc59d
+
